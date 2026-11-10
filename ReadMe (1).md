@@ -10,7 +10,7 @@ I’m currently pursuing my MCA at Jagan Institute of Management Studies (JIMS),
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Shank7239&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Shank7239&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shank7239&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shank7239&theme=dark&hide_border=false&include_all_commits=True&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
